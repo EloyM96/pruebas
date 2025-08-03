@@ -1,7 +1,0 @@
-﻿l_spanish:
- carnx_choose_slavery_attitude_decision:0 "Elegir actitud hacia la esclavitud"
- carnx_choose_slavery_attitude_decision_desc:0 "Puedo elegir mi actitud hacia la esclavitud para aprovecharla mejor."
- carnx_choose_slavery_attitude_decision_tooltip:0 "Podrás elegir tu actitud hacia la [slavery|E], una de $carnx_slavery_attitude_slaver_modifier$, $carnx_slavery_attitude_liberator_modifier$, $carnx_slavery_attitude_trader_modifier$ o $carnx_slavery_attitude_employer_modifier$. Cada actitud te otorga un modificador menor y una ventaja única relacionada con la esclavitud."
- carnx_choose_slavery_attitude_decision.tt:0 "$carnx_choose_slavery_attitude_decision_tooltip$"
- carnx_choose_slavery_attitude_decision_confirm:0 "Elegir actitud hacia la esclavitud"
-
