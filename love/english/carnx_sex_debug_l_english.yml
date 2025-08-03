@@ -1,0 +1,34 @@
+﻿l_english:
+ carnx_sex_debug_prefix: "[GetCurrentDate.GetStringShort]: [THIS.Char.GetFullNameNoTooltip] ([THIS.Char.GetID])"
+ carnx_sex_debug_prefix_2: "[GetCurrentDate.GetStringShort]: [THIS.Char.GetFullNameNoTooltip] ([THIS.Char.GetID], [Select_CString(THIS.Char.IsFemale, 'female', 'male')])"
+
+ carnx_sex_debug_msg_character_had_sex: "$carnx_sex_debug_prefix_2$: Character had sex (carn_sex_partner: [THIS.Var('carn_sex_partner').Char.GetFullNameNoTooltip] ([THIS.Var('carn_sex_partner').Char.GetID], [Select_CString(THIS.Var('carn_sex_partner').Char.IsFemale, 'female', 'male')]), carn_pregnancy_chance: [THIS.Var('carn_pregnancy_chance').GetValue])"
+ carnx_sex_debug_msg_character_got_pregnant: "$carnx_sex_debug_prefix_2$: Character got pregnant (father: [THIS.Var('father').Char.GetFullNameNoTooltip] ([THIS.Var('father').Char.GetID]), carn_pregnancy_chance: [THIS.Var('carn_pregnancy_chance').GetValue])"
+ carnx_sex_debug_msg_character_got_pregnant_with_known_bastard: "$carnx_sex_debug_prefix$: Character got pregnant with known bastard"
+
+ carnx_sex_debug_msg_rape_interaction_accepted: "$carnx_sex_debug_prefix$: Rape interaction accepted"
+ carnx_sex_debug_msg_debug_0001_fired: "$carnx_sex_debug_prefix$: Debug Sex event fired"
+
+ carnx_sex_debug_msg_sex_scene_0001_fired: "$carnx_sex_debug_prefix_2$: Sex Scene 1 event fired: ($carnx_carn_sex_target$, $carnx_sex_scene_location$, $carnx_sex_scene_target$, $carnx_sex_scene_player_attitude$, $carnx_sex_scene_target_attitude$)"
+ carnx_sex_debug_msg_sex_scene_0002_fired: "$carnx_sex_debug_prefix_2$: Sex Scene 2 event fired: ($carnx_carn_sex_target$, $carnx_sex_scene_location$, $carnx_sex_scene_target$, $carnx_sex_scene_player_attitude$, $carnx_sex_scene_target_attitude$, $carnx_sex_scene_quote_flag$)"
+ carnx_sex_debug_msg_sex_scene_0003_fired: "$carnx_sex_debug_prefix_2$: Sex Scene 3 event fired: ($carnx_carn_sex_target$, $carnx_sex_scene_location$, $carnx_sex_scene_target$, $carnx_sex_scene_player_attitude$, $carnx_sex_scene_target_attitude$, $carnx_sex_scene_quote_flag$)"
+ carnx_sex_debug_msg_sex_scene_0004_fired: "$carnx_sex_debug_prefix_2$: Sex Scene 4 event fired: ($carnx_carn_sex_target$, $carnx_sex_scene_location$, $carnx_sex_scene_target$, $carnx_sex_scene_player_attitude$, $carnx_sex_scene_target_attitude$, $carnx_sex_scene_quote_flag$)"
+ carnx_sex_debug_msg_sex_scene_0005_fired: "$carnx_sex_debug_prefix_2$: Sex Scene 5 event fired: ($carnx_carn_sex_target$, $carnx_sex_scene_location$, $carnx_sex_scene_target$, $carnx_sex_scene_player_attitude$, $carnx_sex_scene_target_attitude$, $carnx_sex_scene_quote_flag$)"
+
+ carnx_carn_sex_target: "carn_sex_target: [THIS.Var('carn_sex_target').Char.GetFullNameNoTooltip] ([THIS.Var('carn_sex_target').Char.GetID], [Select_CString(THIS.Var('carn_sex_target').Char.IsFemale, 'female', 'male')])"
+ carnx_sex_scene_location: "sex_scene_location: [THIS.Var('sex_scene_location').GetFlagName]"
+ carnx_sex_scene_target: "sex_scene_target: [THIS.Var('sex_scene_target').GetFlagName]"
+ carnx_sex_scene_player_attitude: "sex_scene_player_attitude: [THIS.Var('sex_scene_player_attitude').GetFlagName]"
+ carnx_sex_scene_target_attitude: "sex_scene_target_attitude: [THIS.Var('sex_scene_target_attitude').GetFlagName]"
+ carnx_sex_scene_quote_flag: "sex_scene_quote: [THIS.Var('sex_scene_quote').GetFlagName]"
+
+ carnx_sex_debug_msg_travel_arrived: "$carnx_sex_debug_prefix$: Travel to $carnx_travel_sex_recipient$'s location arrived at destination"
+ carnx_sex_debug_msg_travel_moved: "$carnx_sex_debug_prefix$: Travel to $carnx_travel_sex_recipient$'s location moved"
+ carnx_sex_debug_msg_travel_aborted_or_cancelled: "$carnx_sex_debug_prefix$: Travel to $carnx_travel_sex_recipient$'s location aborted or cancelled"
+ carnx_sex_debug_msg_travel_0001_event_fired: "$carnx_sex_debug_prefix$: Event $carnx_sex_travel.0001.t$ fired"
+
+ carnx_sex_debug.0001.t: "Debug Sex"
+ carnx_sex_debug.0001.desc: "I just had sex with [target.GetFirstNameNoTooltip]."
+ carnx_sex_debug.0001.a: "OK"
+
+ carnx_travel_sex_recipient: "[THIS.Var('carnx_travel_sex_recipient').Char.GetFullNameNoTooltip]"
