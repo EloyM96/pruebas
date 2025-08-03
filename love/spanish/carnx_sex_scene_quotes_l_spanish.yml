@@ -1,59 +1,59 @@
-﻿l_spanish:
- # Sappho, Fragment 22, loose translation by Michael R. Burch
- # Source: The Joy of Poetry, https://the-joy-of-poetry.quora.com/Sappho-translation-of-clinging-dresses
- # Target: female, amorous, faithful, flirtatious; Player: amorous, faithful, gentle
- carnx_sex_scene_quote_01: "#EMP That enticing girl's clinging dresses\nleave me trembling, overcome by happiness,\nas once, when I saw the Goddess in my prayers\neclipsing Cyprus.#!\n\n#weak ― Sappho, Fragment 22, loose translation by Michael R. Burch#!"
+l_spanish:
+# Sappho, Fragmento 22, traducción libre de Michael R. Burch
+# Source: The Joy of Poetry, https://the-joy-of-poetry.quora.com/Sappho-translation-of-clinging-dresses
+# Target: female, amorous, faithful, flirtatious; Player: amorous, faithful, gentle
+carnx_sex_scene_quote_01: "#EMP Los ceñidos vestidos de esa muchacha seductora\nme dejan temblando, rebosante de felicidad,\ncomo cuando vi a la Diosa en mis plegarias\neclipsando Chipre.#!\n\n#weak ― Safo, Fragmento 22, traducción libre de Michael R. Burch#!"
 
- # Musa Lapidaria, 100A, loose translation by Michael R. Burch
- # Source: Ancient Erotica: The Best Ancient Erotic Poems of All Time, http://www.thehypertexts.com/The%20Best%20Ancient%20Erotic%20Poems.html
- # Target: female, hedonistic, accommodating, obedient, flirtatious; Player: male, hedonistic, accommodating, dominating
- carnx_sex_scene_quote_02: "#EMP Cunt, while you weep and seep neediness all night,\nass has claimed what would bring you delight.#!\n\n#weak ― Musa Lapidaria, 100A, loose translation by Michael R. Burch#!"
+# Musa Lapidaria, 100A, traducción libre de Michael R. Burch
+# Source: Ancient Erotica: The Best Ancient Erotic Poems of All Time, http://www.thehypertexts.com/The%20Best%20Ancient%20Erotic%20Poems.html
+# Target: female, hedonistic, accommodating, obedient, flirtatious; Player: male, hedonistic, accommodating, dominating
+carnx_sex_scene_quote_02: "#EMP Coño, mientras lloras y rezumas necesidad toda la noche,\nel culo ha reclamado lo que te daría deleite.#!\n\n#weak ― Musa Lapidaria, 100A, traducción libre de Michael R. Burch#!"
 
- # Song of Solomon, King James Bible
- # Source: King James Bible, https://biblehub.com/kjv/songs/2.htm
- # Target: amorous, faithful, flirtatious; Player: amorous, faithful, gentle
- carnx_sex_scene_quote_03: "#EMP O my dove, that art in the clefts of the rock, in the secret places of the stairs, let me see thy countenance,\nlet me hear thy voice; for sweet is thy voice, and thy countenance is comely.\nTake us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.\n\nMy beloved is mine, and I am his: he feedeth among the lilies.\nUntil the day break, and the shadows flee away, turn, my beloved,\nand be thou like a roe or a young hart upon the mountains of Bether.#!\n\n#weak ― Song of Solomon, King James Bible#!"
+# Cantar de los Cantares, Biblia del Rey Jacobo
+# Source: King James Bible, https://biblehub.com/kjv/songs/2.htm
+# Target: amorous, faithful, flirtatious; Player: amorous, faithful, gentle
+carnx_sex_scene_quote_03: "#EMP Oh mi paloma, que estás en las grietas de la roca, en los escondites de las escaleras, déjame ver tu semblante,\npermíteme oír tu voz; porque dulce es tu voz y hermoso tu rostro.\nAtrapadnos las zorras, las pequeñas zorras que echan a perder las viñas, pues nuestras viñas tienen tiernas uvas.\n\nMi amado es mío y yo soy suya: él apacienta entre los lirios.\nHasta que amanezca y las sombras huyan, vuelve, amado mío,\ny sé como un corzo o un cervatillo sobre los montes de Bether.#!\n\n#weak ― Cantar de los Cantares, Biblia del Rey Jacobo#!"
 
- # An Ancient Egyptian Love Lyric, loose translation by Michael R. Burch
+# Una antigua lírica de amor egipcia, traducción libre de Michael R. Burch
  # Source: The Joy of Poetry, https://the-joy-of-poetry.quora.com/Sometimes-the-Dead-2
  # Target: female, amorous, faithful, flirtatious; Player: amorous, faithful, gentle
- carnx_sex_scene_quote_04: "#EMP [ROOT.Char.Custom('carnx_sex_scene_quote_04')]#!\n\n#weak ― An Ancient Egyptian Love Lyric, loose translation by Michael R. Burch#!"
- carnx_sex_scene_quote_04a: "Is there anything sweeter than these hours of love,\nwhen we're together, and my heart races?\nFor what is better than embracing and fondling\nwhen you visit me and we surrender to delights?*\n\nIf you reach to caress my thigh,\nI will offer you my breast also —\nit's soft; it won't jab you or thrust you away!\n\nWill you leave me because you're hungry?\nAre you ruled by your belly?\nWill you leave me because you need something to wear?\nI have chests full of fine linen!\nWill you leave me because you're thirsty?\nHere, suck my breasts! They're full to overflowing, and all for you!"
- carnx_sex_scene_quote_04b: "The thrill of your love spreads through my body\nlike honey in water,\nlike a drug mixed with spices,\nlike wine mingled with water.\n\nOh, that you would speed to see your sister\nlike a stallion in heat, like a bull to his heifer!\nFor the heavens have granted us love like flames igniting straw,\ndesire like the falcon's free-falling frenzy!"
+carnx_sex_scene_quote_04: "#EMP [ROOT.Char.Custom('carnx_sex_scene_quote_04')]#!\n\n#weak ― Una antigua lírica de amor egipcia, traducción libre de Michael R. Burch#!"
+carnx_sex_scene_quote_04a: "¿Hay algo más dulce que estas horas de amor,\ncuando estamos juntos y mi corazón se acelera?\n¿Qué hay mejor que abrazar y acariciar\ncuando me visitas y nos rendimos a los placeres?*\n\nSi extiendes la mano para acariciar mi muslo,\ntambién te ofreceré mi pecho —\nes suave; no te pinchará ni te rechazará.\n\n¿Me dejarás porque tienes hambre?\n¿Te gobierna tu vientre?\n¿Me dejarás porque necesitas algo que ponerte?\n¡Tengo cofres llenos de lino fino!\n¿Me dejarás porque tienes sed?\nAquí, chupa mis pechos. ¡Están a rebosar, y son todo para ti!"
+carnx_sex_scene_quote_04b: "El estremecimiento de tu amor se esparce por mi cuerpo\ncomo miel en el agua,\ncomo droga mezclada con especias,\ncomo vino mezclado con agua.\n\n¡Oh, que te apresuraras a ver a tu hermana\ncomo un semental en celo, como un toro a su novilla!\nPorque los cielos nos han concedido un amor como llamas que prenden la paja,\ndeseo como la frenesí de caída libre del halcón!"
 
- # An Ancient Egyptian Love Song, loose translation by Michael R. Burch
+# Una antigua canción de amor egipcia, traducción libre de Michael R. Burch
  # Source: The Joy of Poetry, https://the-joy-of-poetry.quora.com/These-are-epigrams-by-Michael-R-Burch-both-original-epigrams-and-translations-of-epigrams-by-poets-like-Michelangelo-a
  # Target: female, amorous, faithful, flirtatious; Player: amorous, faithful, gentle
- carnx_sex_scene_quote_05: "#EMP [ROOT.Char.Custom('carnx_sex_scene_quote_05')]#!\n\n#weak ― An Ancient Egyptian Love Song, loose translation by Michael R. Burch#!"
- carnx_sex_scene_quote_05a: "Lover, let's slip down to the pond;\nI'll bathe while you watch me from the nearest bank.\nI'll wear my sexiest swimsuit, just for you,\nmade of sheer linen, fit for a princess!\nCome, see how it looks when it's wet!\nCan I coax you to wade in with me?\nTo let the cool water surround us?"
- carnx_sex_scene_quote_05b: "Then I'll dive way down deep, just for you,\nand come up dripping,\nletting you feast your eyes\non the little pink fish I've found.\nThen I'll say, standing there in the shallows:\nLook at my little pink fish, love,\nas I hold it in my hand.\nSee how my fingers caress it,\nslipping down its sides, then inside!\nSee how it wiggles?\nBut then I'll giggle softly and sigh,\nmy eyes bright with your seeing:\nIt's a gift, my love, no more words!\nCome closer and see,\nit's all me!"
+carnx_sex_scene_quote_05: "#EMP [ROOT.Char.Custom('carnx_sex_scene_quote_05')]#!\n\n#weak ― Una antigua canción de amor egipcia, traducción libre de Michael R. Burch#!"
+carnx_sex_scene_quote_05a: "Amor, vamos a deslizarnos hasta el estanque;\nyo me bañaré mientras me miras desde la orilla más cercana.\nLlevaré mi traje más sugerente, solo para ti,\nhecho de lino transparente, digno de una princesa.\nVen, mira cómo luce cuando está mojado.\n¿Puedo persuadirte para que entres conmigo?\n¿Para que el agua fresca nos envuelva?"
+carnx_sex_scene_quote_05b: "Entonces me sumergiré muy hondo, solo por ti,\ny saldré goteando,\npermitiéndote deleitar tus ojos\ncon el pequeño pez rosado que he encontrado.\nLuego diré, de pie en lo poco profundo:\nMira mi pequeño pez rosado, amor,\nmientras lo sostengo en mi mano.\nMira cómo mis dedos lo acarician,\ndeslizándose por sus lados, luego dentro.\n¿Ves cómo se agita?\nPero entonces soltaré una risita y suspiraré,\nmis ojos brillando por tu mirada:\nEs un regalo, mi amor, ¡no hacen falta más palabras!\nAcércate y mira,\n¡todo esto soy yo!"
 
- # Wulf and Eadwacer, ancient Anglo-Saxon poem, loose translation by Michael R. Burch
+# Wulf y Eadwacer, antiguo poema anglosajón, traducción libre de Michael R. Burch
  # Source: AllPoetry, https://allpoetry.com/poem/15011075-Translation-of--Wulf-and-Eadwacer--by-Michael-R.-Burch
  # Target: respectful, accommodating, faithful, obedient; Player: respectful, accommodating, faithful, gentle
- carnx_sex_scene_quote_06: "#EMP [ROOT.Char.Custom('carnx_sex_scene_quote_06')]#!\n\n#weak ― Wulf and Eadwacer, ancient Anglo-Saxon poem, loose translation by Michael R. Burch#!"
- carnx_sex_scene_quote_06a: "My clan's curs pursue him like crippled game;\nthey'll rip him apart if he approaches their pack.\nIt is otherwise with us.\n\nWulf's on one island; we're on another.\nHis island's a fortress, fastened by fens.\nHere, bloodthirsty curs howl for carnage.\nThey'll rip him apart if he approaches their pack.\nIt is otherwise with us.\n\nMy heart pursued Wulf like a panting hound,\nbut whenever it rained—how I wept!—\nthe boldest cur grasped me in its paws:\ngood feelings for him, but for me loathsome!"
- carnx_sex_scene_quote_06b: "Wulf, O, my Wulf, my ache for you\nhas made me sick; your seldom-comings\nhave left me famished, deprived of real meat.\n\nHave you heard, Eadwacer? Watchdog!\nA wolf has borne our wretched whelp to the woods!\nOne can easily sever what never was one:\nour song together."
+carnx_sex_scene_quote_06: "#EMP [ROOT.Char.Custom('carnx_sex_scene_quote_06')]#!\n\n#weak ― Wulf y Eadwacer, antiguo poema anglosajón, traducción libre de Michael R. Burch#!"
+carnx_sex_scene_quote_06a: "Los perros de mi clan lo persiguen como a una presa herida;\nlo destrozarán si se acerca a su manada.\nCon nosotros es distinto.\n\nWulf está en una isla; nosotros en otra.\nSu isla es una fortaleza, sujeta por pantanos.\nAquí, perros sedientos de sangre aúllan por carnicería.\nLo destrozarán si se acerca a su manada.\nCon nosotros es distinto.\n\nMi corazón persiguió a Wulf como un sabueso jadeante,\npero cada vez que llovía —¡cómo lloraba!—\nel perro más audaz me atrapaba con sus garras:\nbuenos sentimientos para él, pero para mí detestables."
+carnx_sex_scene_quote_06b: "Wulf, oh mi Wulf, mi anhelo por ti\nme ha enfermado; tus raras visitas\nme han dejado famélica, privada de verdadera carne.\n\n¿Lo has oído, Eadwacer? ¡Perro guardián!\n¡Un lobo se ha llevado a nuestro desdichado cachorro al bosque!\nEs fácil separar lo que nunca fue uno:\nnuestra canción juntos."
 
- # Robert Herrick, Upon Julia's Breasts
+# Robert Herrick, Sobre los pechos de Julia
  # Source: Public Domain Poetry, http://www.public-domain-poetry.com/robert-herrick/upon-julias-breasts-18741
  # Target: female, amorous, respectful, hedonistic, accommodating, faithful, obedient, flirtatious; Player: amorous, hedonistic, faithful, gentle
- carnx_sex_scene_quote_10: "#EMP Display thy breasts, my Julia - there let me\nBehold that circummortal purity,\nBetween whose glories there my lips I'll lay,\nRavish'd in that fair via lactea.#!\n\n#weak ― Robert Herrick, Upon Julia's Breasts#!"
+carnx_sex_scene_quote_10: "#EMP Muestra tus pechos, mi Julia; allí déjame\ncontemplar esa pureza circummortal,\nentre cuyas glorias posaré mis labios,\narrebatado en esa bella vía láctea.#!\n\n#weak ― Robert Herrick, Sobre los pechos de Julia#!"
 
- # Percy Bysshe Shelley, To Constantia, Singing
+# Percy Bysshe Shelley, A Constantia, cantando
  # Source: Project Gutenberg, hhttps://www.gutenberg.org/ebooks/4800
  # Target: *; Player: amorous
- carnx_sex_scene_quote_11: "#EMP My brain is wild, my breath comes quick--\nThe blood is listening in my frame,\nAnd thronging shadows, fast and thick,\nFall on my overflowing eyes;\nMy heart is quivering like a flame;\nAs morning dew, that in the sunbeam dies,\nI am dissolved in these consuming ecstasies.#!\n\n#weak ― Percy Bysshe Shelley, To Constantia, Singing#!"
+carnx_sex_scene_quote_11: "#EMP Mi mente se desata, mi aliento se apresura;\nla sangre escucha en todo mi cuerpo,\ny sombras que se agolpan, rápidas y densas,\ncaen sobre mis ojos rebosantes;\nmi corazón tiembla como una llama;\ncomo el rocío matinal que muere en el rayo del sol,\nme disuelvo en estas éxtasis que consumen.#!\n\n#weak ― Percy Bysshe Shelley, A Constantia, cantando#!"
 
- # William Dunbar, Sweet Rose of Virtue, loose translation by Michael R. Burch
+# William Dunbar, Dulce rosa de virtud, traducción libre de Michael R. Burch
  # Source: AllPoetry, https://allpoetry.com/poem/14966456-Sweet-Rose-of-Virtue--William-Dunbar-translation-by-Michael-R.-Burch
  # Target: female, reserved, deceitful, resisting, calculating; Player: amorous, respectful, faithful, gentle
- carnx_sex_scene_quote_12: "#EMP Sweet rose of virtue and of gentleness,\ndelightful lily of youthful wantonness,\nrichest in bounty and in beauty clear\nand in every virtue men hold most dear,\nexcept only that you are merciless.\n\nInto your garden, today, I followed you;\nthere I found flowers of freshest hue,\nboth white and red, delightful to see,\nand wholesome herbs, waving resplendently,\nyet everywhere, no odor but rue.#!\n\n#weak ― William Dunbar, Sweet Rose of Virtue, loose translation by Michael R. Burch#!"
+carnx_sex_scene_quote_12: "#EMP Dulce rosa de virtud y gentileza,\nencantador lirio de juvenil desenfreno,\nla más rica en generosidad y belleza pura\ny en toda virtud que los hombres tienen por más querida,\nsalvo únicamente que eres despiadada.\n\nA tu jardín, hoy, te seguí;\nallí hallé flores de color más fresco,\nblancas y rojas, deleite a la vista,\ny hierbas sanas ondeando resplandecientes,\npero por doquier, ningún olor salvo a ruda.#!\n\n#weak ― William Dunbar, Dulce rosa de virtud, traducción libre de Michael R. Burch#!"
 
- # William Shakespeare, Sonnet 147
+# William Shakespeare, Soneto 147
  # Source: Wikipedia, https://en.wikipedia.org/wiki/Sonnet_147
  # Target: *; Player: amorous
- carnx_sex_scene_quote_13: "#EMP My love is as a fever, longing still\nFor that which longer nurseth the disease;\nFeeding on that which doth preserve the ill,\nThe uncertain sickly appetite to please.\nMy reason, the physician to my love,\nAngry that his prescriptions are not kept,\nHath left me, and I desperate now approve\nDesire is death, which physic did except.\nPast cure I am, now reason is past care,\nAnd frantic-mad with evermore unrest;\nMy thoughts and my discourse as madmen's are,\nAt random from the truth vainly express'd;\n  For I have sworn thee fair, and thought thee bright,\n  Who art as black as hell, as dark as night.#!\n\n#weak ― William Shakespeare, Sonnet 147#!"
+carnx_sex_scene_quote_13: "#EMP Mi amor es como una fiebre, aún anhelando\nlo que por más tiempo nutre la enfermedad;\nse alimenta de aquello que mantiene el mal,\npor complacer el incierto apetito enfermizo.\nMi razón, el médico de mi amor,\nenojado porque no obedezco sus prescripciones,\nme ha dejado, y desesperado apruebo ahora\nque el deseo es muerte, que la medicina exceptuó.\nEstoy más allá de la cura, la razón ya no cuida,\ny frenético, loco, con perpetuo desasosiego;\nmis pensamientos y mi discurso son de locos,\nexpresados al azar, lejos de la verdad;\n  pues te juré hermosa y te pensé radiante,\n  tú que eres tan negra como el infierno, tan oscura como la noche.#!\n\n#weak ― William Shakespeare, Soneto 147#!"
 
  # John Donne, To His Mistress Going to Bed
  # Source: RPO, https://rpo.library.utoronto.ca/content/his-mistress-going-bed
