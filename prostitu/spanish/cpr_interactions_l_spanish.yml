@@ -1,22 +1,22 @@
 ﻿l_spanish:
- cpr_find_prostitutes_interaction: "Interact with Prostitute"
- cpr_find_prostitutes_interaction_desc: "Find a working prostitute to have sex with or invite to court"
+ cpr_find_prostitutes_interaction: "Interactuar con prostituta"
+ cpr_find_prostitutes_interaction_desc: "Busca una prostituta en activo para tener sexo con ella o invitarla a la corte"
 
- recipient_secondary_cpr_find_prostitutes_interaction: "Prostitute"
+ recipient_secondary_cpr_find_prostitutes_interaction: "Prostituta"
 
  cpr_sex_option: "$carn_sex_interaction$"
- cpr_sex_option_desc: "Open #EMP $carn_sex_interaction$#! for [secondary_recipient.GetShortUINameNoTooltip]"
- cpr_invite_to_court_option: "Invite to Court"
- cpr_invite_to_court_option_desc: "Open #EMP $invite_to_court_interaction$#! for [secondary_recipient.GetShortUINameNoTooltip]"
+ cpr_sex_option_desc: "Abre #EMP $carn_sex_interaction$#! para [secondary_recipient.GetShortUINameNoTooltip]"
+ cpr_invite_to_court_option: "Invitar a la corte"
+ cpr_invite_to_court_option_desc: "Abre #EMP $invite_to_court_interaction$#! para [secondary_recipient.GetShortUINameNoTooltip]"
  cpr_invite_as_guest_option: "$travl_invite_as_guest_interaction$"
- cpr_invite_as_guest_option_desc: "Open #EMP $travl_invite_as_guest_interaction$#! for [secondary_recipient.GetShortUINameNoTooltip]"
+ cpr_invite_as_guest_option_desc: "Abre #EMP $travl_invite_as_guest_interaction$#! para [secondary_recipient.GetShortUINameNoTooltip]"
 
- cpr_sex_interaction_not_valid_tt: "$carn_sex_interaction$ is not valid for [secondary_recipient.GetShortUINameNoTooltip] at the moment."
- cpr_invite_to_court_interaction_not_accepted_tt: "$invite_to_court_interaction$ is not valid for [secondary_recipient.GetShortUINameNoTooltip] or they will not accept it at the moment."
- cpr_invite_as_guest_interaction_not_accepted_tt: "$travl_invite_as_guest_interaction$ is not valid for [secondary_recipient.GetShortUINameNoTooltip] or will not accept it at the moment."
+ cpr_sex_interaction_not_valid_tt: "$carn_sex_interaction$ no es válido para [secondary_recipient.GetShortUINameNoTooltip] en este momento."
+ cpr_invite_to_court_interaction_not_accepted_tt: "$invite_to_court_interaction$ no es válido para [secondary_recipient.GetShortUINameNoTooltip] o no lo aceptará en este momento."
+ cpr_invite_as_guest_interaction_not_accepted_tt: "$travl_invite_as_guest_interaction$ no es válido para [secondary_recipient.GetShortUINameNoTooltip] o no lo aceptará en este momento."
 
- cpr_sex_interaction_warning_tt: "#X Opens #EMP $carn_sex_interaction$#! for [secondary_recipient.GetShortUINameNoTooltip]#!"
- cpr_invite_to_court_interaction_warning_tt: "#X Opens #EMP $invite_to_court_interaction$#! for [secondary_recipient.GetShortUINameNoTooltip]#!"
- cpr_invite_as_guest_interaction_warning_tt: "#X Opens #EMP $travl_invite_as_guest_interaction$#! for [secondary_recipient.GetShortUINameNoTooltip]#!"
+ cpr_sex_interaction_warning_tt: "#X Abre #EMP $carn_sex_interaction$#! para [secondary_recipient.GetShortUINameNoTooltip]#!"
+ cpr_invite_to_court_interaction_warning_tt: "#X Abre #EMP $invite_to_court_interaction$#! para [secondary_recipient.GetShortUINameNoTooltip]#!"
+ cpr_invite_as_guest_interaction_warning_tt: "#X Abre #EMP $travl_invite_as_guest_interaction$#! para [secondary_recipient.GetShortUINameNoTooltip]#!"
 
- travl_invite_as_guest_interaction: "Invite as Guest"
+ travl_invite_as_guest_interaction: "Invitar como huésped"
