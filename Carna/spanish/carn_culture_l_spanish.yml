@@ -1,0 +1,8 @@
+﻿l_spanish:
+
+carn_tradition_placeholder_desc:1 "Marcador de posición de la tradición de Carnalitas"
+culture_parameter_carn_no_consequences_for_extramarital_sex_with_others:1 "El [extramarital_sex|E] con otros no conlleva ninguna penalización"
+culture_parameter_carn_no_consequences_for_extramarital_sex_with_me:1 "Otros personajes no son penalizados por tener [extramarital_sex|E] con personajes de esta cultura"
+culture_parameter_carn_prostitution_accepted:1 "La [prostitution|E] es legal"
+culture_parameter_carn_more_good_prostitution_events:1 "Los eventos aleatorios afortunados de la [prostitution|E] son más comunes"
+culture_parameter_lustful_trait_more_common:1 "El [trait|E] [GetTrait('lustful').GetName( GetNullCharacter )] es más común"
