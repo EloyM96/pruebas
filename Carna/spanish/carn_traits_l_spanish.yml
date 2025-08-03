@@ -104,3 +104,6 @@ trait_prostitute_3_desc:1 "Un[ROOT.Char.Custom('ES_OA')] exclusiv[ROOT.Char.Cust
 trait_prostitute_3_character_desc:1 "Un[ROOT.Char.Custom('ES_OA')] exclusiv[ROOT.Char.Custom('ES_OA')] compañer[ROOT.Char.Custom('ES_OA')] dign[ROOT.Char.Custom('ES_OA')] de la más alta nobleza, [ROOT.GetCharacter.GetFirstNameNoTooltip] es un[ROOT.Char.Custom('ES_OA')] expert[ROOT.Char.Custom('ES_OA')] acompañante y un[ROOT.Char.Custom('ES_OA')] amante sin igual."
 
 trait_lifestyle_prostitute:1 "Prostitutas"
+
+trait_track_lifestyle_prostitute:1 "Prostituta"
+trait_track_lifestyle_prostitute_desc:1 "Una vida de vender sexo"
