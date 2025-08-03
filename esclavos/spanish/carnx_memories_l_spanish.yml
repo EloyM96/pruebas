@@ -1,0 +1,42 @@
+﻿l_spanish:
+ carnx_enslaved_desc_1:0 "Fui esclavizado por [enslaver.GetTitledFirstName]"
+ carnx_enslaved_desc_second_perspective_1:0 "fuiste esclavizado por [enslaver.GetTitledFirstName]"
+ carnx_enslaved_desc_third_perspective_1:0 "[owner.GetName] fue esclavizado por [enslaver.GetTitledFirstName]"
+
+ carnx_freed_desc_1:0 "Fui liberado de la esclavitud por [emancipator.GetTitledFirstName]"
+ carnx_freed_desc_second_perspective_1:0 "fuiste liberado de la esclavitud por [emancipator.GetTitledFirstName]"
+ carnx_freed_desc_third_perspective_1:0 "[owner.GetName] fue liberado de la esclavitud por [emancipator.GetTitledFirstName]"
+
+ carnx_bought_desc_1:0 "Fui comprado por [buyer.GetTitledFirstName]"
+ carnx_bought_desc_second_perspective_1:0 "fuiste comprado por [buyer.GetTitledFirstName]"
+ carnx_bought_desc_third_perspective_1:0 "[owner.GetName] fue comprado por [buyer.GetTitledFirstName]"
+
+ carnx_seized_desc_1:0 "Fui confiscado por [seizer.GetTitledFirstName]"
+ carnx_seized_desc_second_perspective_1:0 "fuiste confiscado por [seizer.GetTitledFirstName]"
+ carnx_seized_desc_third_perspective_1:0 "[owner.GetName] fue confiscado por [seizer.GetTitledFirstName]"
+
+ carnx_ransomed_desc_1:0 "Fui rescatado de la esclavitud por [ransomer.GetTitledFirstName]"
+ carnx_ransomed_desc_second_perspective_1:0 "fuiste rescatado de la esclavitud por [ransomer.GetTitledFirstName]"
+ carnx_ransomed_desc_third_perspective_1:0 "[owner.GetName] fue rescatado de la esclavitud por [ransomer.GetTitledFirstName]"
+
+ carnx_gifted_desc_1:0 "Fui entregado a [new_owner.GetTitledFirstName]"
+ carnx_gifted_desc_second_perspective_1:0 "fuiste entregado a [new_owner.GetTitledFirstName]"
+ carnx_gifted_desc_third_perspective_1:0 "[owner.GetName] fue entregado a [new_owner.GetTitledFirstName]"
+
+ carnx_escaped_desc_1:0 "Escapé de ser esclavo de [former_owner.GetTitledFirstName]"
+ carnx_escaped_desc_second_perspective_1:0 "escapaste de ser esclavo de [former_owner.GetTitledFirstName]"
+ carnx_escaped_desc_third_perspective_1:0 "[owner.GetName] escapó de ser esclavo de [former_owner.GetTitledFirstName]"
+
+ carnx_liberated_desc_1:0 "Fui liberado de la esclavitud por [liberator.GetTitledFirstName]"
+ carnx_liberated_desc_second_perspective_1:0 "fuiste liberado de la esclavitud por [liberator.GetTitledFirstName]"
+ carnx_liberated_desc_third_perspective_1:0 "[owner.GetName] fue liberado de la esclavitud por [liberator.GetTitledFirstName]"
+
+ carnx_enslaved_memory:0 "esclavizado"
+ carnx_freed_memory:0 "liberado"
+ carnx_bought_memory:0 "comprado"
+ carnx_seized_memory:0 "confiscado"
+ carnx_ransomed_memory:0 "rescatado"
+ carnx_gifted_memory:0 "regalado"
+ carnx_escaped_memory:0 "escapado"
+ carnx_liberated_memory:0 "liberado"
+

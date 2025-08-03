@@ -1,0 +1,13 @@
+﻿l_spanish:
+ carnx_special_doctrine_slave_employment_name: "Empleo de esclavos"
+ carnx_special_doctrine_slave_employment_desc: "Confiamos incluso nuestros cargos más altos a esclavos, ya que son más leales que nuestros otros súbditos."
+ carnx_doctrine_slave_employment_name: "$carnx_special_doctrine_slave_employment_name$"
+
+ doctrine_parameter_carnx_slave_employment_active: "Puede nombrar [slaves|E] en la mayoría de los [council|E] y [court_positions|E]"
+ doctrine_parameter_carnx_employed_slaves_more_loyal_active: "Los [slaves|E] nombrados en [court_positions|E] duplican su [opinion|E] por ser empleados"
+ doctrine_parameter_carnx_slave_soldiers_active: "Puede nombrar el [court_position|E] $carnx_slave_captain_court_position$"
+
+ carnx_special_doctrine_placeholder_name: "Doctrina provisional"
+ carnx_special_doctrine_placeholder_desc: "Esta es una doctrina provisional para evitar errores en error.log."
+ carnx_doctrine_placeholder_name: "$carnx_special_doctrine_placeholder_name$"
+
