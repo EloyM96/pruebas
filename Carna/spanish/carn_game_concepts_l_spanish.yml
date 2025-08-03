@@ -28,14 +28,14 @@ game_concept_slave_owners_possessive:1 "De los Amos"
 game_concept_slave_owner_desc:1 "Un [character|E] puede ser legalmente reconocido como $game_concept_slave_owner$ por uno o más [slaves|E]. Los propietarios de esclavos tienen un [strong_hook|E] sobre sus esclavos por lo que puede venderlos o comprarlos en [slave_market|E]. Tambien, [extramarital_sex|E] entre el esclavo y su amo es legal.\n\nSí un amo muere, su [primary_heir|E] sera el nuevo amo de sus esclavos."
 
 game_concept_slave_market:1 "Mercado de Esclavos"
-game_concept_slave_market_desc:1 "[slaves|E], siendo propiedad de otros, pueden ser comprados o vendidos por otros [characters|E] mediante the $carn_buy_slave_directly_interaction$ o $carn_sell_slave_interaction$ [interactions|E]. Un personaje que compre un esclavo se convertira en su [slave_owner|E].\n\nUn esclavo con buenas [skills|E], [traits|E], o [claims|E] se venderan por un precio más alto. Un [noble|E], una joven, o [GetTrait('eunuch_1').GetName( GetNullCharacter )] es especialmente preciado."
+game_concept_slave_market_desc:1 "[slaves|E], siendo propiedad de otros, pueden ser comprados o vendidos por otros [characters|E] mediante la $carn_buy_slave_directly_interaction$ o $carn_sell_slave_interaction$ [interactions|E]. Un personaje que compre un esclavo se convertira en su [slave_owner|E].\n\nUn esclavo con buenas [skills|E], [traits|E], o [claims|E] se venderan por un precio más alto. Un [noble|E], una joven, o [GetTrait('eunuch_1').GetName( GetNullCharacter )] es especialmente preciado."
 
 game_concept_prostitute:1 "Prostituta"
 game_concept_prostitutes:1 "Prostitutas"
 game_concept_prostitution:1 "Prostitucin"
 game_concept_prostitute_possessive:1 "De la Prostituta"
 game_concept_prostitutes_possessive:1 "De las Prostitutas'"
-game_concept_prostitute_desc:1 "Una prostituta es un [character|E] ofrece sexo a cambio de dinero. Cualquier personaje puede usar the $carn_work_as_prostitute_decision$ [decision|E] para prostituirse, siempre y cuando [faith|E] se lo permita.\n\nSu desempreño se basa en [diplomacy|E], [intrigue|E], inteligencia, y atractivo. Una prostituta especialmente habilidosa puede ser [GetTrait('prostitute_2').GetName( GetNullCharacter )] o incluso [GetTrait('prostitute_3').GetName( GetNullCharacter )].\n\nEjercer la prostitución es legalmente sancionado y no se considera [extramarital_sex|E]. Sin embargo, puede resultar en hijos [bastard|E] o en otras consecuencias si el personaje no es cuidadoso..."
+game_concept_prostitute_desc:1 "Una prostituta es un [character|E] ofrece sexo a cambio de dinero. Cualquier personaje puede usar la $carn_work_as_prostitute_decision$ [decision|E] para prostituirse, siempre y cuando [faith|E] se lo permita.\n\nSu desempreño se basa en [diplomacy|E], [intrigue|E], inteligencia, y atractivo. Una prostituta especialmente habilidosa puede ser [GetTrait('prostitute_2').GetName( GetNullCharacter )] o incluso [GetTrait('prostitute_3').GetName( GetNullCharacter )].\n\nEjercer la prostitución es legalmente sancionado y no se considera [extramarital_sex|E]. Sin embargo, puede resultar en hijos [bastard|E] o en otras consecuencias si el personaje no es cuidadoso..."
 
 game_concept_lactation: "Lactancia"
  game_concept_lactating: "Lactando"
