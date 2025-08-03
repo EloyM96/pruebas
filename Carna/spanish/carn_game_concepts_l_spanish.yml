@@ -4,41 +4,90 @@ game_concept_dominant:1 "Dominante"
 game_concept_dominant_short:1 "Dom"
 game_concept_dominants:1 "Dominantes"
 game_concept_dominant_possessive:1 "Del Dominante"
-game_concept_dominants_possessive:1 "De los Dominantes'"
-game_concept_dominant_desc:1 "Usualmente abreviado como $game_concept_dominant_short$, un $game_concept_dominant$ es un [character|E] con una [relation|E] con un [submissive|E]. Mientras las especificaciones varian, el rol de $game_concept_dominant$ usualmente involucra el control total de $game_concept_submissive$."
+game_concept_dominants_possessive:1 "De los Dominantes"
+game_concept_dominant_desc:1 "Usualmente abreviado como $game_concept_dominant_short$, un $game_concept_dominant$ es un [character|E] con una [relation|E] con un [submissive|E]. Mientras las especificaciones varían, el rol de $game_concept_dominant$ usualmente involucra el control total de $game_concept_submissive$."
 
 game_concept_submissive:1 "Submisivo"
 game_concept_submissive_short:1 "Sub"
 game_concept_submissives:1 "Submisivos"
 game_concept_submissive_possessive:1 "Del Submisivo"
 game_concept_submissives_possessive:1 "De los Submisivos"
-game_concept_submissive_desc:1 "Usualmente abreviado como $game_concept_submissive_short$, un $game_concept_submissive$ es un [character|E] con una [relation|E] con un [dominant|E]. WMientras las especificaciones varian, el rol de $game_concept_submissive$ usualmente involucra la sumisión total hacia $game_concept_dominant$."
+game_concept_submissive_desc:1 "Usualmente abreviado como $game_concept_submissive_short$, un $game_concept_submissive$ es un [character|E] con una [relation|E] con un [dominant|E]. Mientras las especificaciones varían, el rol de $game_concept_submissive$ usualmente involucra la sumisión total hacia $game_concept_dominant$."
 
 game_concept_slave:1 "Esclavo"
 game_concept_slaves:1 "Esclavos"
 game_concept_slavery:1 "Esclavitud"
 game_concept_slave_possessive:1 "Del Esclavo"
 game_concept_slaves_possessive:1 "De los Esclavos"
-game_concept_slave_desc:1 "Un $game_concept_slave$ es un [character|E] que fue despojado de sus derechos y esclavizado. Son propiedad de un [slave_owner|E], que tiene [strong_hook|E] que puede comprarlos o venderlos en [slave_market|E]. Tambien, [extramarital_sex|E] entre el esclavo y su amo es legal.\n\nLos esclavos no [titles|E], cualquier vastago nacido de una esclava sera un esclavo tambien.\n\nSi un amo muere,su [primary_heir|E] sera el nuevo amo de sus esclavos.\n\nPara escapar de la esclavitud, un esclavo debe ser liberado por su amo mediante $carn_free_slave_interaction$ [character_interaction|E]."
+game_concept_slave_desc:1 "Un $game_concept_slave$ es un [character|E] que fue despojado de sus derechos y esclavizado. Son propiedad de un [slave_owner|E], que tiene [strong_hook|E] y puede comprarlos o venderlos en [slave_market|E]. También, [extramarital_sex|E] entre el esclavo y su amo es legal.\n\nLos esclavos no pueden tener [titles|E], cualquier vástago nacido de una esclava será un esclavo también.\n\nSi un amo muere, su [primary_heir|E] será el nuevo amo de sus esclavos.\n\nPara escapar de la esclavitud, un esclavo debe ser liberado por su amo mediante $carn_free_slave_interaction$ [character_interaction|E]."
 
 game_concept_slave_owner:1 "Amo"
 game_concept_slave_owners:1 "Amos"
 game_concept_slave_owner_possessive:1 "Del Amo"
 game_concept_slave_owners_possessive:1 "De los Amos"
-game_concept_slave_owner_desc:1 "Un [character|E] puede ser legalmente reconocido como $game_concept_slave_owner$ por uno o más [slaves|E]. Los propietarios de esclavos tienen un [strong_hook|E] sobre sus esclavos por lo que puede venderlos o comprarlos en [slave_market|E]. Tambien, [extramarital_sex|E] entre el esclavo y su amo es legal.\n\nSí un amo muere, su [primary_heir|E] sera el nuevo amo de sus esclavos."
+game_concept_slave_owner_desc:1 "Un [character|E] puede ser legalmente reconocido como $game_concept_slave_owner$ por uno o más [slaves|E]. Los propietarios de esclavos tienen un [strong_hook|E] sobre sus esclavos por lo que pueden venderlos o comprarlos en [slave_market|E]. También, [extramarital_sex|E] entre el esclavo y su amo es legal.\n\nSi un amo muere, su [primary_heir|E] será el nuevo amo de sus esclavos."
 
 game_concept_slave_market:1 "Mercado de Esclavos"
-game_concept_slave_market_desc:1 "[slaves|E], siendo propiedad de otros, pueden ser comprados o vendidos por otros [characters|E] mediante la $carn_buy_slave_directly_interaction$ o $carn_sell_slave_interaction$ [interactions|E]. Un personaje que compre un esclavo se convertira en su [slave_owner|E].\n\nUn esclavo con buenas [skills|E], [traits|E], o [claims|E] se venderan por un precio más alto. Un [noble|E], una joven, o [GetTrait('eunuch_1').GetName( GetNullCharacter )] es especialmente preciado."
+game_concept_slave_market_desc:1 "[slaves|E], siendo propiedad de otros, pueden ser comprados o vendidos por otros [characters|E] mediante la $carn_buy_slave_directly_interaction$ o $carn_sell_slave_interaction$ [interactions|E]. Un personaje que compre un esclavo se convertirá en su [slave_owner|E].\n\nUn esclavo con buenas [skills|E], [traits|E], o [claims|E] se venderá por un precio más alto. Un [noble|E], una joven, o [GetTrait('eunuch_1').GetName( GetNullCharacter )] es especialmente preciado."
 
 game_concept_prostitute:1 "Prostituta"
 game_concept_prostitutes:1 "Prostitutas"
-game_concept_prostitution:1 "Prostitucin"
+game_concept_prostitution:1 "Prostitución"
 game_concept_prostitute_possessive:1 "De la Prostituta"
-game_concept_prostitutes_possessive:1 "De las Prostitutas'"
-game_concept_prostitute_desc:1 "Una prostituta es un [character|E] ofrece sexo a cambio de dinero. Cualquier personaje puede usar la $carn_work_as_prostitute_decision$ [decision|E] para prostituirse, siempre y cuando [faith|E] se lo permita.\n\nSu desempreño se basa en [diplomacy|E], [intrigue|E], inteligencia, y atractivo. Una prostituta especialmente habilidosa puede ser [GetTrait('prostitute_2').GetName( GetNullCharacter )] o incluso [GetTrait('prostitute_3').GetName( GetNullCharacter )].\n\nEjercer la prostitución es legalmente sancionado y no se considera [extramarital_sex|E]. Sin embargo, puede resultar en hijos [bastard|E] o en otras consecuencias si el personaje no es cuidadoso..."
+game_concept_prostitutes_possessive:1 "De las Prostitutas"
+game_concept_prostitute_desc:1 "Una prostituta es un [character|E] que ofrece sexo a cambio de dinero. Cualquier personaje puede usar la $carn_work_as_prostitute_decision$ [decision|E] para prostituirse, siempre y cuando [faith|E] se lo permita.\n\nSu desempeño se basa en [diplomacy|E], [intrigue|E], inteligencia y atractivo. Una prostituta especialmente habilidosa puede ser [GetTrait('prostitute_2').GetName( GetNullCharacter )] o incluso [GetTrait('prostitute_3').GetName( GetNullCharacter )].\n\nEjercer la prostitución es legalmente sancionado y no se considera [extramarital_sex|E]. Sin embargo, puede resultar en hijos [bastard|E] o en otras consecuencias si el personaje no es cuidadoso..."
 
-game_concept_lactation: "Lactancia"
- game_concept_lactating: "Lactando"
- game_concept_milk: "Leche"
- game_concept_milk_production: "Producción de Leche"
- game_concept_lactation_desc: "Cuando la Lactancia esta Habilitada, los [characters|E] pueden incrementar su producción de leche por el embarazo u otros efectos. Esto hara que produzcan leche por un tiempo. Los embarazos sucesivos harar que un personaje produzca leche por más tiempo.\n\nLa Lactancia es puramente cosmetico, pero los mods pueden agregar más caracteristicas y contenido para los personajes Lactando."
+game_concept_lactation:1 "Lactancia"
+game_concept_lactating:1 "Lactando"
+game_concept_milk:1 "Leche"
+game_concept_milk_production:1 "Producción de Leche"
+game_concept_lactation_desc:1 "Cuando la lactancia está habilitada, los [characters|E] pueden incrementar su producción de leche por el embarazo u otros efectos. Esto hará que produzcan leche por un tiempo. Los embarazos sucesivos harán que un personaje produzca leche por más tiempo.\n\nLa lactancia es puramente cosmética, pero los mods pueden agregar más características y contenido para los personajes lactando."
+
+game_concept_fetish:1 "Fetiche"
+game_concept_fetishes:1 "Fetiches"
+game_concept_fetish_desc:1 "Cuando un [character|E] obtiene el [trait|E] o [secret|E] [GetTrait('deviant').GetName( GetNullCharacter )], también recibirá un fetiche aleatorio si el Sistema de Fetiches de Carnalitas está habilitado. Puedes ver los fetiches públicamente conocidos de un personaje pasando el cursor sobre el icono junto a su orientación sexual.\n\nLos fetiches son puramente cosméticos por defecto, pero los mods pueden agregar características y contenido para personajes con fetiches específicos."
+
+game_concept_anal:1 "Anal"
+game_concept_anal_desc:1 "El acto de tener sexo que implica la penetración del ano."
+
+game_concept_sadism:1 "Sadismo"
+game_concept_sadism_desc:1 "Obtener placer de infligir dolor a otros."
+
+game_concept_masochism:1 "Masoquismo"
+game_concept_masochism_desc:1 "Obtener placer al experimentar dolor."
+
+game_concept_bestiality:1 "Bestialidad"
+game_concept_bestiality_desc:1 "El acto de tener sexo con animales."
+
+game_concept_watersports:1 "Urofilia"
+game_concept_watersports_desc:1 "Obtener placer al orinar sobre alguien o ser orinado por alguien."
+
+game_concept_scat:1 "Coprofagia"
+game_concept_scat_desc:1 "Obtener placer al defecar sobre alguien o ser defecado por alguien."
+
+game_concept_gore:1 "Gore"
+game_concept_gore_desc:1 "Obtener placer de la visión de sangre, vísceras y gore."
+
+game_concept_foot_play:1 "Juego de pies"
+game_concept_foot_play_desc:1 "Obtener placer de cualquier acto (sexual o no) que involucre pies."
+
+game_concept_bondage:1 "Bondage"
+game_concept_bondage_desc:1 "Obtener placer al atar a alguien o ser atado."
+
+game_concept_domination:1 "Dominación"
+game_concept_domination_desc:1 "$game_concept_dominant_desc$"
+
+game_concept_submission:1 "Sumisión"
+game_concept_submission_desc:1 "$game_concept_submissive_desc$"
+
+game_concept_raping:1 "Violar"
+game_concept_raping_desc:1 "El acto de tener relaciones sexuales con alguien que no está dispuesto."
+
+game_concept_being_raped:1 "Ser violado"
+game_concept_being_raped_desc:1 "El acto de tener relaciones sexuales en contra de tu voluntad."
+
+game_concept_lactation_fetish:1 "$game_concept_lactation$"
+game_concept_lactation_fetish_desc:1 "$game_concept_lactation_desc$"
+
+game_concept_unknown_fetish:1 "Fetiche desconocido"
+game_concept_unknown_fetish_desc:1 "Un fetiche desconocido. Sea lo que sea, probablemente es perturbador."
