@@ -58,6 +58,30 @@ setting_carn_dt_trait_names_default_desc:1 "Los rasgos corporales se llamaran '$
 setting_carn_dt_trait_names_immersive:1 "#high Inmersivo#!"
 setting_carn_dt_trait_names_immersive_desc:1 "Los rasgos corporales se llamaran '$trait_tits_big_1_immersive$,' '$trait_dick_big_1_immersive$,' y así."
 
+rule_carn_dt_dick_small:1 "@carn_icon! #X Carnalitas:#! Deseabilidad de Penes Pequeños"
+setting_carn_dt_dick_small_bad:1 "Negativa"
+setting_carn_dt_dick_small_bad_desc:1 "Los penes pequeños serán considerados un rasgo congénito negativo."
+setting_carn_dt_dick_small_good:1 "#high Positiva#!"
+setting_carn_dt_dick_small_good_desc:1 "Los penes pequeños serán considerados un rasgo congénito positivo."
+
+rule_carn_dt_dick_big:1 "@carn_icon! #X Carnalitas:#! Deseabilidad de Penes Grandes"
+setting_carn_dt_dick_big_good:1 "Positiva"
+setting_carn_dt_dick_big_good_desc:1 "Los penes grandes serán considerados un rasgo congénito positivo."
+setting_carn_dt_dick_big_bad:1 "#high Negativa#!"
+setting_carn_dt_dick_big_bad_desc:1 "Los penes grandes serán considerados un rasgo congénito negativo."
+
+rule_carn_dt_tits_small:1 "@carn_icon! #X Carnalitas:#! Deseabilidad de Senos Pequeños"
+setting_carn_dt_tits_small_bad:1 "Negativa"
+setting_carn_dt_tits_small_bad_desc:1 "Los senos pequeños serán considerados un rasgo congénito negativo."
+setting_carn_dt_tits_small_good:1 "#high Positiva#!"
+setting_carn_dt_tits_small_good_desc:1 "Los senos pequeños serán considerados un rasgo congénito positivo."
+
+rule_carn_dt_tits_big:1 "@carn_icon! #X Carnalitas:#! Deseabilidad de Senos Grandes"
+setting_carn_dt_tits_big_good:1 "Positiva"
+setting_carn_dt_tits_big_good_desc:1 "Los senos grandes serán considerados un rasgo congénito positivo."
+setting_carn_dt_tits_big_bad:1 "#high Negativa#!"
+setting_carn_dt_tits_big_bad_desc:1 "Los senos grandes serán considerados un rasgo congénito negativo."
+
 rule_carn_futa_trait_name:1 "@carn_icon! #X Carnalitas:#! Nombre del Rasgo Futanari"
 setting_carn_futa_trait_name_futa:1 "Por defecto"
 setting_carn_futa_trait_name_futa_desc:1 "Una mujer con ambos organos sexuales se llamara $carn_futanari$."
