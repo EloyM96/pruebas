@@ -1,30 +1,30 @@
 ﻿l_spanish:
 
 # Contract
-cpr_laamp_1000_contract: "A Night's Diversion"
-cpr_laamp_1000_desc_title: "Wanderers of refined talents,"
-cpr_laamp_1000_desc: "[TaskContract.GetEmployer.GetTitleAsNameNoTooltip] of [TaskContract.GetEmployer.GetPrimaryTitle.GetNameNoTier] seeks an entertainer to provide private diversions. [TaskContract.GetEmployer.GetSheHe|U] has specific preferences based on [TaskContract.GetEmployer.GetHerHis] personal tastes. Discretion assured and generous compensation offered to those who can truly impress."
-cpr_laamp_1000_request: "This [task_contract|E] requires you to [travel|E] to a [ruler|E]'s residence and provide entertainment. You will choose from several options based on the employer's interests — music, poetry, dance, fortune-telling, illusions, or companionship. Your success will depend on your [diplomacy|E], [intrigue|E], [learning|E], or [prowess|E] skills. You may also assign a suitable [follower|E] to perform in your place."
+cpr_laamp_1000_contract: "Una distracción nocturna"
+cpr_laamp_1000_desc_title: "Errantes de talentos refinados,"
+cpr_laamp_1000_desc: "[TaskContract.GetEmployer.GetTitleAsNameNoTooltip] de [TaskContract.GetEmployer.GetPrimaryTitle.GetNameNoTier] busca un artista que ofrezca diversiones privadas. [TaskContract.GetEmployer.GetSheHe|U] tiene preferencias específicas basadas en sus gustos personales. Se garantiza discreción y se ofrece una generosa compensación a quienes logren impresionar de verdad."
+cpr_laamp_1000_request: "Este [task_contract|E] requiere que [travel|E] a la residencia de un [ruler|E] y proveas entretenimiento. Elegirás entre varias opciones según los intereses del empleador — música, poesía, danza, lectura de fortuna, ilusiones o compañía. Tu éxito dependerá de tus habilidades de [diplomacy|E], [intrigue|E], [learning|E] o [prowess|E]. También puedes asignar a un [follower|E] adecuado para que actúe en tu lugar."
 
 # Initial Selection Event
 cpr_laamp_contract_schemes.1000.t: "$cpr_laamp_1000_contract$"
-cpr_laamp_contract_schemes.1000.desc: "[employer.GetTitledFirstName] welcomes me to [employer.GetHerHis] private chambers, a smile not quite reaching [employer.GetHerHis] eyes. The room is overly lit by candles, yet somehow remains cold.\n\n'My position affords me many things,' [employer.GetSheHe] says, swirling wine in a goblet. 'Power, wealth, respect... yet I find myself starved for novelty, for distraction from courtly matters.'\n\n[employer.GetSheHe|U] looks at me intently. 'I'm told you possess uncommon talents. I would have you entertain me — what do you offer?'"
-cpr_laamp_contract_schemes.1000.a: "I could perform music to ease your troubled mind."
-cpr_laamp_contract_schemes.1000.b: "Allow me to share poetry and tales from distant lands."
-cpr_laamp_contract_schemes.1000.c: "Perhaps a dance would lift your spirits?"
-cpr_laamp_contract_schemes.1000.d: "I offer companionship of a more... intimate nature."
-cpr_laamp_contract_schemes.1000.e: "I could read your fortune through the ancient art of astrology."
-cpr_laamp_contract_schemes.1000.f: "I know arts of illusion that will astonish and delight you."
-cpr_laamp_contract_schemes.1000.g: "You wish me to play the fool for your amusement? I think not."
+cpr_laamp_contract_schemes.1000.desc: "[employer.GetTitledFirstName] me recibe en sus aposentos privados, con una sonrisa que no llega del todo a sus ojos. La habitación está excesivamente iluminada por velas, pero de algún modo sigue fría.\n\n'Mi posición me concede muchas cosas', dice [employer.GetSheHe] mientras agita el vino en una copa. 'Poder, riqueza, respeto... pero me encuentro hambriento de novedad, de distracción de los asuntos cortesanos.'\n\n[employer.GetSheHe|U] me mira con intensidad. 'Me han dicho que posees talentos poco comunes. Quiero que me entretengas — ¿qué ofreces?'"
+cpr_laamp_contract_schemes.1000.a: "Podría interpretar música para calmar tu mente inquieta."
+cpr_laamp_contract_schemes.1000.b: "Permíteme compartir poesía y relatos de tierras lejanas."
+cpr_laamp_contract_schemes.1000.c: "¿Quizás una danza animaría tu espíritu?"
+cpr_laamp_contract_schemes.1000.d: "Ofrezco compañía de una naturaleza más... íntima."
+cpr_laamp_contract_schemes.1000.e: "Podría leer tu fortuna mediante el antiguo arte de la astrología."
+cpr_laamp_contract_schemes.1000.f: "Conozco artes de ilusión que te asombrarán y deleitarán."
+cpr_laamp_contract_schemes.1000.g: "¿Deseas que haga el papel de bufón para tu diversión? Lo siento, no."
 
 # Tooltips
-cpr_laamp_contract_schemes.1000.a.tt: "You will attempt to entertain [employer.GetTitledFirstName] with musical performance. Success depends primarily on your [diplomacy|E], but you may be able to use other approaches."
-cpr_laamp_contract_schemes.1000.b.tt: "You will recite poetry and tales for [employer.GetTitledFirstName]. Success depends primarily on your [diplomacy|E], though your [learning|E] may offer alternative approaches."
-cpr_laamp_contract_schemes.1000.c.tt: "You will perform dances to entertain [employer.GetTitledFirstName]. Success depends primarily on your [diplomacy|E], though your [prowess|E] might allow for an impressive warrior's dance."
-cpr_laamp_contract_schemes.1000.d.tt: "You will provide [employer.GetTitledFirstName] with intimate companionship. Success depends primarily on your [diplomacy|E], though your [intrigue|E] might allow you to extract secrets during vulnerable moments."
-cpr_laamp_contract_schemes.1000.e.tt: "You will read [employer.GetTitledFirstNamePossessive] fortune through astrology. Success depends primarily on your [learning|E], though your [intrigue|E] might allow for manipulation through 'divination'."
-cpr_laamp_contract_schemes.1000.f.tt: "You will perform illusions and tricks to amaze [employer.GetTitledFirstName]. Success depends primarily on your [intrigue|E], though your [learning|E] might offer a more scholarly approach to the art of deception."
-cpr_laamp_contract_schemes.1000.g.tt: "You decline the request for entertainment, judging that your talents would be wasted on this particular patron. Though this may damage relations with [employer.GetTitledFirstName], your dignity remains intact... along with whatever other assets you've chosen to preserve."
+cpr_laamp_contract_schemes.1000.a.tt: "Intentarás entretener a [employer.GetTitledFirstName] con una interpretación musical. El éxito depende principalmente de tu [diplomacy|E], aunque podrías emplear otros enfoques."
+cpr_laamp_contract_schemes.1000.b.tt: "Recitarás poesía y relatos para [employer.GetTitledFirstName]. El éxito depende principalmente de tu [diplomacy|E], aunque tu [learning|E] puede ofrecer enfoques alternativos."
+cpr_laamp_contract_schemes.1000.c.tt: "Bailarás para entretener a [employer.GetTitledFirstName]. El éxito depende principalmente de tu [diplomacy|E], aunque tu [prowess|E] podría permitir una impresionante danza guerrera."
+cpr_laamp_contract_schemes.1000.d.tt: "Brindarás compañía íntima a [employer.GetTitledFirstName]. El éxito depende principalmente de tu [diplomacy|E], aunque tu [intrigue|E] podría permitirte extraer secretos en momentos de vulnerabilidad."
+cpr_laamp_contract_schemes.1000.e.tt: "Leerás la fortuna de [employer.GetTitledFirstNamePossessive] mediante la astrología. El éxito depende principalmente de tu [learning|E], aunque tu [intrigue|E] podría permitir la manipulación mediante 'adivinación'."
+cpr_laamp_contract_schemes.1000.f.tt: "Realizarás ilusiones y trucos para asombrar a [employer.GetTitledFirstName]. El éxito depende principalmente de tu [intrigue|E], aunque tu [learning|E] podría ofrecer un enfoque más académico al arte del engaño."
+cpr_laamp_contract_schemes.1000.g.tt: "Rechazas la solicitud de entretenimiento, juzgando que tus talentos se desperdiciarían en este patrón en particular. Aunque esto pueda dañar tus relaciones con [employer.GetTitledFirstName], tu dignidad permanece intacta... junto con cualquier otro recurso que hayas decidido conservar."
 
 # 1. Music Performance Contract
 cpr_laamp_contract_schemes.1100.t: "$cpr_laamp_1000_contract$: A Melody for Weary Ears"
