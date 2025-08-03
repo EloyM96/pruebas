@@ -1,13 +1,13 @@
 ﻿l_spanish:
 
-cpr_laamp_1000_success_employer_modifier: "Entertained by Skillful Performance"
-cpr_laamp_1000_success_employer_modifier_desc: "This character has been moved by a performance of remarkable quality, bringing temporary respite from the burdens of rule and enhancing their diplomatic presence."
+cpr_laamp_1000_success_employer_modifier: "Entretenido por una actuación magistral"
+cpr_laamp_1000_success_employer_modifier_desc: "Este personaje ha sido conmovido por una actuación de calidad notable, brindándole un respiro temporal de las cargas del gobierno y realzando su presencia diplomática."
 
-cpr_laamp_1000_failure_employer_modifier: "Subjected to Painful Performance"
-cpr_laamp_1000_failure_employer_modifier_desc: "This character has recently endured an entertainment of questionable quality, leaving them more irritable and less composed in diplomatic matters."
+cpr_laamp_1000_failure_employer_modifier: "Sometido a una actuación dolorosa"
+cpr_laamp_1000_failure_employer_modifier_desc: "Este personaje ha soportado recientemente un entretenimiento de calidad dudosa, dejándolo más irritable y menos sereno en asuntos diplomáticos."
 
-cpr_laamp_1000_deception_success_employer_modifier: "Unwittingly Manipulated"
-cpr_laamp_1000_deception_success_employer_modifier_desc: "This character has been subtly manipulated through entertainment, believing themselves to have experienced something genuine while actually revealing vulnerabilities and secrets. Their judgment is compromised without their knowledge."
+cpr_laamp_1000_deception_success_employer_modifier: "Manipulado sin saberlo"
+cpr_laamp_1000_deception_success_employer_modifier_desc: "Este personaje ha sido sutilmente manipulado mediante un entretenimiento, creyendo haber vivido algo genuino mientras en realidad revelaba vulnerabilidades y secretos. Su juicio está comprometido sin que lo sepa."
 
-cpr_laamp_1000_deception_failure_employer_modifier: "Heightened Suspicion"
-cpr_laamp_1000_deception_failure_employer_modifier_desc: "Having detected an attempt at manipulation disguised as entertainment, this character has become more vigilant and suspicious, making them harder to deceive but also more stressed and paranoid."
+cpr_laamp_1000_deception_failure_employer_modifier: "Sospecha incrementada"
+cpr_laamp_1000_deception_failure_employer_modifier_desc: "Habiendo detectado un intento de manipulación disfrazado de entretenimiento, este personaje se ha vuelto más vigilante y desconfiado, lo que lo hace más difícil de engañar pero también más estresado y paranoico."
