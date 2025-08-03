@@ -15,7 +15,7 @@ trait_dick_small_1_character_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip] n
 trait_dick_small_2:1 "Pene Diminuto"
 trait_dick_small_2_immersive:1 "Capón"
 trait_dick_small_2_desc:1 "El tamaño del pene de este personaje es motivo de vergüenza."
-trait_dick_small_2_character_desc:1 "El tamaño del pene de [ROOT.GetCharacter.GetFirstNameNoTooltip]es motivo de vergüenza."
+trait_dick_small_2_character_desc:1 "El tamaño del pene de [ROOT.GetCharacter.GetFirstNameNoTooltip] es motivo de vergüenza."
 
 trait_dick_small_3:1 "Micro Pene"
 trait_dick_small_3_immersive:1 "Castrado"
@@ -54,7 +54,7 @@ trait_tits_small_2_character_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip] t
 trait_tits_small_3:1 "Pechos Planos"
 trait_tits_small_3_immersive:1 "Como Tabla"
 trait_tits_small_3_desc:1 "El busto de este personaje es plano como una tabla."
-trait_tits_small_3_character_desc:1 "El busto de [ROOT.GetCharacter.GetFirstNameNoTooltip]es plano como una tabla."
+trait_tits_small_3_character_desc:1 "El busto de [ROOT.GetCharacter.GetFirstNameNoTooltip] es plano como una tabla."
 
 trait_tits_big:1 "Senos Grandes"
 
@@ -71,7 +71,7 @@ trait_tits_big_2_character_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip] tie
 trait_tits_big_3:1 "Senos Gigantes"
 trait_tits_big_3_immersive:1 "Sandias"
 trait_tits_big_3_desc:1 "El busto de este personaje es motivo de leyendas."
-trait_tits_big_3_character_desc:1 "El busto de [ROOT.GetCharacter.GetFirstNameNoTooltip]es motivo de leyendas."
+trait_tits_big_3_character_desc:1 "El busto de [ROOT.GetCharacter.GetFirstNameNoTooltip] es motivo de leyendas."
 
 trait_slave:1 "Esclavo"
 trait_slave_desc:1 "Este personaje es propiedad de otra persona, reconocido por la ley como menos que un ser humano."
