@@ -47,18 +47,18 @@
  recipient_secondary_carnx_pay_ransom_slaves_interaction: "Owner"
 
  # carnx_gift_slave_interaction
- carnx_gift_slave_interaction: "Gift Slave"
- carnx_gift_slave_interaction_desc: "Give a [slave|E] to [recipient.GetShortUINameNoTooltip] to increase [recipient.GetHerHis] opinion of you"
- recipient_secondary_carnx_gift_slave_interaction: "Slave"
- carnx_gift_slave_proposal: "Please accept this slave as a gift. I hope [secondary_recipient.GetSheHe] will serve you well."
- carnx_gift_slave_accept: "Accept"
- carnx_gift_slave_reject: "Decline"
+carnx_gift_slave_interaction: "Regalar Esclavo"
+carnx_gift_slave_interaction_desc: "Entrega un [slave|E] a [recipient.GetShortUINameNoTooltip] para mejorar [recipient.GetHerHis] opinión sobre ti"
+recipient_secondary_carnx_gift_slave_interaction: "Esclavo"
+carnx_gift_slave_proposal: "Por favor acepta este esclavo como obsequio. Espero que [secondary_recipient.GetSheHe] te sirva bien."
+carnx_gift_slave_accept: "Aceptar"
+carnx_gift_slave_reject: "Rechazar"
 
  # carnx_liberate_slave_interaction
- carnx_liberate_slave_interaction: "Liberate Slave"
- carnx_liberate_slave_interaction_desc: "Liberate [recipient.GetShortUINameNoTooltip] from [slavery|E]"
- carnx_liberate_slave_offer: "Out of the goodness of my heart, I am liberating you from slavery."
- carnx_liberate_slave_offer_conditional: "I am willing to liberate you from slavery, but not unconditionally..."
+carnx_liberate_slave_interaction: "Liberar Esclavo"
+carnx_liberate_slave_interaction_desc: "Libera a [recipient.GetShortUINameNoTooltip] de la [slavery|E]"
+carnx_liberate_slave_offer: "Por la bondad de mi corazón, te libero de la esclavitud."
+carnx_liberate_slave_offer_conditional: "Estoy dispuesto a liberarte de la esclavitud, pero no sin condiciones..."
 
  # carn_demand_free_illegal_slaves_interaction
  carnx_demand_free_illegal_slaves_refused: "[recipient.GetShortUIName|U] does not free [recipient.GetHerHis] illegal slaves"

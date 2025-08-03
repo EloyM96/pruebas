@@ -36,9 +36,9 @@
 
  carnx_sex_scene_giving_first: "[ROOT.Char.Custom2('carnx_sex_scene_giving_first_target', SCOPE.sC('second'))] ([ROOT.Char.Custom('carnx_sex_scene_target_attitude')]), [ROOT.Char.Custom2('carnx_sex_scene_giving_first_player', SCOPE.sC('second'))] ([ROOT.Char.Custom('carnx_sex_scene_player_attitude')]). "
 
- carnx_sex_scene_giving_first_target_01: "[second.GetSheHe|U] looks at me inquiringly, trying to anticipate my wishes" # respectful, accommodating, faithful, obedient
- carnx_sex_scene_giving_first_target_02: "[second.GetSheHe|U] smiles at me coquettishly" # female, hedonistic, flirtatious, pleasure-seeking
- carnx_sex_scene_giving_first_target_03: "[second.GetSheHe|U] slowly bares [second.GetHerHis] breasts" # female, hedonistic, flirtatious, pleasure-seeking, !bdsm
+carnx_sex_scene_giving_first_target_01: "[second.GetSheHe|U] me mira con curiosidad, intentando anticipar mis deseos" # respectful, accommodating, faithful, obedient
+carnx_sex_scene_giving_first_target_02: "[second.GetSheHe|U] me sonríe coquetamente" # female, hedonistic, flirtatious, pleasure-seeking
+carnx_sex_scene_giving_first_target_03: "[second.GetSheHe|U] descubre lentamente sus [second.GetHerHis] pechos" # female, hedonistic, flirtatious, pleasure-seeking, !bdsm
  carnx_sex_scene_giving_first_target_04: "[second.GetSheHe|U] turns around and lets [second.GetHerHis] clothes fall down, revealing [second.GetHerHis] naked buttocks" # hedonistic, flirtatious, pleasure-seeking, !bdsm
  carnx_sex_scene_giving_first_target_05: "[second.GetSheHe|U] greets me courteously with a ringing voice" # respectful, faithful
  carnx_sex_scene_giving_first_target_06: "[second.GetSheHe|U] seems overjoyed to see me and eager to please me" # respectful, faithful
